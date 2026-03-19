@@ -15,7 +15,7 @@ After many years working in IT infrastructure and technology leadership roles, I
 
 **Languages**
 
-  Java • C • C++ • Rust • FoxPro • SQL
+  Java • C • C++ • Rust • FoxPro • VB • SQL
 
 **Backend**
 
