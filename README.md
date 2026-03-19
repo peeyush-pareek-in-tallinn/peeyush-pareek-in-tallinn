@@ -1,13 +1,12 @@
 ## Hi, I'm Peeyush 👋
 
-Aspiring backend developer based in Tallinn, Estonia, currently focused on building software using **Rust** and **Java (Spring Boot)**.
+Aspiring backend developer based in Tallinn, Estonia, currently focused on building software using **Java (Spring Boot)**.
 
 After many years working in IT infrastructure and technology leadership roles, I am transitioning into **hands-on software development**, combining my understanding of large-scale systems with modern programming practices.
 
 
 ## 💻 🔭 I’m currently working on...
 - Backend development with **Java and Spring Boot**
-- Systems programming with **Rust**
 - REST API design and implementation
 - Learning modern software engineering practices and design patterns
 
@@ -16,7 +15,7 @@ After many years working in IT infrastructure and technology leadership roles, I
 
 **Languages**
 
-  Rust • Java • C • C++ • SQL
+  Java • C • C++ • Rust • FoxPro • SQL
 
 **Backend**
 
@@ -32,6 +31,10 @@ After many years working in IT infrastructure and technology leadership roles, I
 
 
 ## 📂 Featured Projects
+
+### Hospital Management System
+Java + Spring Boot  
+A RESTful Spring Boot application for healthcare management including patients, doctors and insurance modules with pagination, DTOs and global exception handling for a clean, maintainable backend.
 
 ### Student Management REST API
 Java + Spring Boot  
