@@ -32,15 +32,19 @@ After many years working in IT infrastructure and technology leadership roles, I
 
 ## 📂 Featured Projects
 
-### Hospital Management System
+### 💻 Cipher API with Test Suite
+Java + Spring Boot 
+Built a REST API supporting multiple cipher algorithms (ROT13, Adcash) with full unit test coverage. Designed using Strategy Pattern for scalability.
+
+### 💻 Hospital Management System
 Java + Spring Boot  
 A RESTful Spring Boot application for healthcare management including patients, doctors and insurance modules with pagination, DTOs and global exception handling for a clean, maintainable backend.
 
-### Student Management REST API
+### 💻 Student Management REST API
 Java + Spring Boot  
 A backend REST API implementing CRUD operations for managing student records.
 
-### Java Learning Repository
+### 💻 Java Learning Repository
 Collection of exercises and examples exploring core Java concepts and programming patterns.
 
 *(More projects coming as I continue building and learning.)*
